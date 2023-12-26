@@ -116,11 +116,6 @@ a:hover {
 	color: #45a049;
 }
 
-#cpp-icon {
-	position: relative;
-	top: 20px;
-}
-
 section {
 	width: 50%;
 	height: 1450px;
@@ -147,4 +142,19 @@ iframe {
 	transform: scale(1); 
 	overflow:hidden;
 	margin: 0 auto;
+}
+
+#css-icon {
+	position: relative;
+	top: 20px;
+}
+
+#html-icon {
+	position: relative;
+	top: 20px;
+}
+
+#cpp-icon {
+	position: relative;
+	top: 20px;
 }
